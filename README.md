@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
 ```text
+Week: 29 July, 2020 - 05 August, 2020
+
 TypeScript   10 hrs 36 mins  ██████████████████░░░░░░░   73.05 % 
 HTML         2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 SCSS         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
