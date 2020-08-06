@@ -1,3 +1,5 @@
+### Coding activity (by language):
+
 <!--START_SECTION:waka-->
 ```text
 Week: 29 July, 2020 - 05 August, 2020
@@ -9,5 +11,4 @@ JSON         27 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Wakatime languages stats](https://wakatime.com/share/@nelson6e65/2aedd442-36b7-481d-b93e-2ffccc487f1f.svg)
-
+> https://wakatime.com/@nelson6e65
