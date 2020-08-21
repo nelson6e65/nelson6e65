@@ -2,11 +2,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2020 - 19 August, 2020
+Week: 13 August, 2020 - 20 August, 2020
 
-TypeScript   19 hrs 32 mins  ███████████████████████░░   92.44 % 
-HTML         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript   17 hrs 49 mins  ████████████████████████▒   96.97 % 
+HTML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
