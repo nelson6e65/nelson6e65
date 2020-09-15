@@ -18,9 +18,9 @@ jobs:
           # Progress
           #BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # dots1 (7)
           #BLOCKS: ⣀⣄⣆⣇⣧⣷⣿ # dots2 (7)
-          #BLOCKS: ▁▃▅▇      # bars1 (4)
+          BLOCKS: ▁▃▅▇      # bars1 (4)
           #BLOCKS: ☷☳☱☰      # lines1 (4)
-          BLOCKS: ▕▏▎▍▋▊▉    # bars2 (7) (:bug: not horizontally equals)
+          #BLOCKS: ▕▏▎▍▋▊▉    # bars2 (7) (:bug: not horizontally equals)
 
           # Binary
           #BLOCKS: ▱▰        # rectangles1
