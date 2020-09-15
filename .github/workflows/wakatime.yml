@@ -16,11 +16,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           # Progress
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # dots1 (7)
+          #BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # dots1 (7)
           #BLOCKS: ⣀⣄⣆⣇⣧⣷⣿ # dots2 (7)
           #BLOCKS: ▁▃▅▇      # bars1 (4)
           #BLOCKS: ☷☳☱☰      # lines1 (4)
-          #BLOCKS: ▏▎▍▋▊▉    # bars2 (6) (:bug: not horizontally equals)
+          BLOCKS: ▕▏▎▍▋▊▉    # bars2 (7) (:bug: not horizontally equals)
 
           # Binary
           #BLOCKS: ▱▰        # rectangles1
