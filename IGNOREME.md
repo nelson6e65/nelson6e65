@@ -14,18 +14,19 @@ Link: https://github.com/athul/waka-readme
 ⠀
 `BLOCKS`:
 
-|   Name    | Chars |  Pattern  |                  Notes                  |
-|:--------- |:-----:|:--------- | --------------------------------------- |
-| Braile 1  |   9   | ⠀⡀⣀⣄⣤⣦⣶⣷⣿ | Includes blank space (U+2800)           |
-| Braile 2  |   9   | ⠀⡀⡄⡆⡇⣇⣧⣷⣿ | Includes blank space (U+2800)           |
-| Bars 1    |   4   | ▁▃▅▇      |                                         |
-| Lines 1   |   4   | ☷☳☱☰      |                                         |
-| Bars 2    |   6   | `▏▎▍▋▊▉`  | :bug: broadness not equal on some fonts |
-| Squares 1 |   2   | ▱▰        |                                         |
-| dots1     |   2   | ⬜⬛      | Emoji                                   |
-| dots1     |   2   | ◻️◼️      |                                         |
-| dots1     |   2   | ⬜⬛      | Emoji                                   |
-| dots1     |   2   | ⚪⚫      | Emoji                                   |
+|   Name    | Chars | Pattern  |                  Notes                  |
+|:--------- |:-----:|:-------- | --------------------------------------- |
+| Braile 1  |   9   | ⡀⣀⣄⣤⣦⣶⣷⣿ |                                         |
+| Braile 2  |   9   | ⡀⡄⡆⡇⣇⣧⣷⣿ |                                         |
+| Bars 1    |   4   | ▁▃▅▇     |                                         |
+| Lines 1   |   4   | ☷☳☱☰     |                                         |
+| Bars 2    |   6   | `▏▎▍▋▊▉` | :bug: broadness not equal on some fonts |
+| Squares 1 |   2   | ▱▰       |                                         |
+| dots1     |   2   | ⬜⬛     | Emoji                                   |
+| dots1     |   2   | ◻️◼️     |                                         |
+| dots1     |   2   | ⬜⬛     | Emoji                                   |
+| dots1     |   2   | ⚪⚫     | Emoji                                   |
 
-> Triple click to select the pattern
+> Double/triple click to select the pattern.
+> Braile blank space (`⠀`, U+2800) has not the same broadness in some fonts.
 > Blaile patterns from https://www.compart.com/en/unicode/block/U+2800
