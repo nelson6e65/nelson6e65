@@ -2,12 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
-TypeScript   18 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡀⡀⡀   87.04 % 
-HTML         2 hrs 5 mins    ⣿⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   09.86 % 
-JSON         28 mins         ⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   02.20 % 
-SCSS         11 mins         ⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   00.90 % 
+TypeScript       23 hrs 49 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀   65.87 % 
+HTML             4 hrs 39 mins   ⣿⣿⣿⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   12.86 % 
+JSON             1 hr 57 mins    ⣿⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.41 % 
+PHP              1 hr 20 mins    ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.72 % 
+Blade Template   1 hr 17 mins    ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.58 % 
 ```
 <!--END_SECTION:waka-->
 
