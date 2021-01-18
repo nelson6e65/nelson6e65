@@ -2,9 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
