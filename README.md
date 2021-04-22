@@ -1,4 +1,4 @@
-### Top 5 weekly languages activity:
+### Weekly coding activity:
 
 <!--START_SECTION:waka-->
 ```text
