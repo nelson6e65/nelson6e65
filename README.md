@@ -1,6 +1,6 @@
+[![Follow nelson6e65](https://img.shields.io/badge/LinkedIn-nelson6e65-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nelson6e65)
 [![nelson6e65's stars](https://img.shields.io/github/stars/nelson6e65?style=social)](https://github.com/nelson6e65)
 [![Follow nelson6e65](https://img.shields.io/twitter/follow/nelson6e65?style=social)](https://twitter.com/intent/follow?screen_name=nelson6e65)
-
 
 ### Weekly coding activity:
 
