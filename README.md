@@ -1,3 +1,7 @@
+[![nelson6e65's stars](https://img.shields.io/github/stars/nelson6e65?style=social)](https://github.com/nelson6e65)
+[![Follow nelson6e65](https://img.shields.io/twitter/follow/nelson6e65?style=social)](https://twitter.com/intent/follow?screen_name=nelson6e65)
+
+
 ### Weekly coding activity:
 
 <!--START_SECTION:waka-->
