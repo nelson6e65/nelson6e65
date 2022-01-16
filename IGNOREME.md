@@ -2,6 +2,14 @@
 
 [![time tracker](https://wakatime.com/badge/github/nelson6e65/nelson6e65.svg)](https://wakatime.com/badge/github/nelson6e65/nelson6e65)
 
+## Stats
+
+### GitHub Readme Stats
+
+Get dynamically generated GitHub stats on your readmes!
+
+- Link: https://github.com/anuraghazra/github-readme-stats
+
 
 ## Actions
 
