@@ -2,6 +2,11 @@
 [![nelson6e65's stars](https://img.shields.io/github/stars/nelson6e65?style=social)](https://github.com/nelson6e65)
 [![Follow nelson6e65](https://img.shields.io/twitter/follow/nelson6e65?style=social)](https://twitter.com/intent/follow?screen_name=nelson6e65)
 
+### GitHub stats
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&hide=prs,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Weekly coding activity:
 
 <!--START_SECTION:waka-->
