@@ -5,7 +5,7 @@
 ### GitHub stats
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&hide=prs,issues)](https://github.com/nelson6e65?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&layout=compact)](https://github.com/nelson6e65?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&layout=compact&hide=Objective-C,java&langs_count=4)](https://github.com/nelson6e65?tab=repositories)
 
 ### Weekly coding activity:
 
