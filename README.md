@@ -13,11 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2022 - To: 18 April 2022
+From: 26 March 2022 - To: 25 April 2022
 
-JSON         29 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   46.77 %
-TypeScript   21 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   33.22 %
-Other        2 hrs 42 mins   ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   04.28 %
+JSON           29 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   43.49 %
+TypeScript     26 hrs 4 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   38.91 %
+YAML           2 hrs 40 mins   ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.99 %
+Other          2 hrs 22 mins   ⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.55 %
 ```
 
 <!--END_SECTION:waka-->
