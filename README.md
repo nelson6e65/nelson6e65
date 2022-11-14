@@ -14,14 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 07 November 2022
+From: 15 October 2022 - To: 14 November 2022
 
-PHP              65 hrs 32 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   41.46 %
-TypeScript       39 hrs 2 mins   ⣿⣿⣿⣿⣿⣿⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   24.69 %
-Vue.js           23 hrs 10 mins  ⣿⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   14.66 %
-HTML             10 hrs 28 mins  ⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   06.63 %
-JSON             5 hrs 51 mins   ⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.71 %
-Other            4 hrs 39 mins   ⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   02.94 %
+PHP              43 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   34.62 %
+Vue.js           34 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   27.75 %
+TypeScript       24 hrs 35 mins  ⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   19.75 %
+HTML             8 hrs 29 mins   ⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   06.81 %
+Other            4 hrs 10 mins   ⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.35 %
 ```
 
 <!--END_SECTION:waka-->
