@@ -14,14 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 30 January 2023
+From: 07 January 2023 - To: 06 February 2023
 
-PHP              54 hrs 55 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   43.03 %
-Vue.js           30 hrs 17 mins  ⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   23.74 %
-JSON             9 hrs 14 mins   ⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   07.25 %
-Markdown         7 hrs 14 mins   ⣿⡇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.67 %
-Bash             5 hrs 11 mins   ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   04.07 %
-Other            4 hrs 59 mins   ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.91 %
+PHP              71 hrs 52 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   47.76 %
+Vue.js           31 hrs 5 mins   ⣿⣿⣿⣿⣿⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   20.66 %
+JSON             9 hrs 30 mins   ⣿⣇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   06.32 %
+Markdown         7 hrs 33 mins   ⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.03 %
+Other            5 hrs 38 mins   ⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   03.75 %
 ```
 
 <!--END_SECTION:waka-->
