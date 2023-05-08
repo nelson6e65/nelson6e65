@@ -14,12 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 01 May 2023
+From: 08 April 2023 - To: 08 May 2023
 
-Vue.js           44 hrs 21 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   51.91 %
-TypeScript       18 hrs 2 mins   ⣿⣿⣿⣿⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   21.11 %
-PHP              9 hrs 23 mins   ⣿⣿⣧⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   10.99 %
-Other            4 hrs 58 mins   ⣿⡇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.83 %
+Vue.js           45 hrs 20 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   52.32 %
+TypeScript       15 hrs 36 mins  ⣿⣿⣿⣿⣇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   18.01 %
+PHP              9 hrs 58 mins   ⣿⣿⣷⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   11.50 %
+Other            5 hrs           ⣿⡇⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.77 %
+JSON             4 hrs 20 mins   ⣿⡆⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   05.01 %
 ```
 
 <!--END_SECTION:waka-->
