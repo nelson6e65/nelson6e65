@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_6_months
+          TIME_RANGE: last_30_days
           SHOW_TIME: false
           # Options in IGNOREME.md file
           BLOCKS: ⡀⡄⡆⡇⣇⣧⣷⣿
