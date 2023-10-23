@@ -17,7 +17,7 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           SHOW_TIME: false
-          CODE_LANG: gitignore
+          CODE_LANG: rust
           LANG_COUNT: 7
           # Options in IGNOREME.md file
           BLOCKS: ⡀⡄⡆⡇⣇⣧⣷⣿
