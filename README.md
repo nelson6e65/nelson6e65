@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 
-```gitignore
+```rust
 From: 23 September 2023 - To: 23 October 2023
 
 PHP                              ⣿⣿⣿⣿⣿⣿⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   23.96 %
