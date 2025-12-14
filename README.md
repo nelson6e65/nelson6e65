@@ -4,7 +4,7 @@
 [![GitHub accepted contributions](https://img.shields.io/github/issues-search?color=%238250df&label=contributions&logo=opensourceinitiative&logoColor=white&query=is%3Apr+is%3Apublic+author%3Anelson6e65+is%3Amerged)](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3Anelson6e65+is%3Amerged)
 [![Follow nelson6e65](https://img.shields.io/twitter/follow/nelson6e65?style=social)](https://twitter.com/intent/follow?screen_name=nelson6e65)
 
-### GitHub stats
+### Open-source stats
 [![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&hide=prs,issues)](https://github.com/nelson6e65?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson6e65&show_icons=true&count_private=true&hide_title=true&layout=compact&hide=Objective-C,java&langs_count=4)](https://github.com/nelson6e65?tab=repositories)
